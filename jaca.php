@@ -3,5 +3,5 @@
 
     function nadaComnada(){
         echo 'o peixa NADA';
-        echo 'dasd';
+        echo 'sua mae senta';
     }
