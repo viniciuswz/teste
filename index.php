@@ -5,5 +5,5 @@
  echo "minha pickaaaa disgraçaaaaaaaaaaaaa";
  echo "porra gustavo";
  echo "Jacovisque";
- echo "Faz uma mudança ai cara";
+ echo "Faz uma mudança ai cara";]
 ?>
