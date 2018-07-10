@@ -14,4 +14,5 @@
  echo "se já tão quebrando a cabeça aqui imagina no resto do projeto...";
  echo "CABsAÇO";
  echo "batata doce";
+ echo "ecolhe qual alteração vc vai fazer, , manter ignorar, junnar tudo"
 ?>
