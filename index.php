@@ -11,4 +11,5 @@
  echo "eae mano";
  echo "to mais perdido q cego em tiroteio";
  echo "CABAÇO";
+ echo "se já tão quebrando a cabeça aqui imagina no resto do projeto...";
 ?>
