@@ -10,5 +10,5 @@
  echo "Faz uma mudança ai cara";]
  echo "eae mano";
  echo "to mais perdido q cego em tiroteio";
- echo "CABAÇO";
+ echo "CABsAÇO";
 ?>
