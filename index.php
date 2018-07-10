@@ -17,5 +17,6 @@
 
  function poha(){
      echo 'Bfssdf';
+     echo 'mais um';
  }
 ?>
