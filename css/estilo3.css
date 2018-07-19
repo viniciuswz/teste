@@ -10,3 +10,13 @@ teste
 .submenu{
     content: "";
 }
+
+#container{
+    width: 100%;
+    background: red
+}
+
+li{
+    width: 50%;
+    list-style: none;
+}
