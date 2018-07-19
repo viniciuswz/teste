@@ -19,4 +19,10 @@ teste
 li{
     width: 50%;
     list-style: none;
+
+.nav{
+    display: inline block;
+}
+ul{
+    list-style-type: square none;
 }
