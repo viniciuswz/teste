@@ -1,6 +1,7 @@
 <?php 
 
  echo"modificado";
+ $vaitoma - "cu";
  echo "1 2 3";
  echo "minha pickaaaa disgraçaaaaaaaaaaaaa";
  echo "porra gustavo";
