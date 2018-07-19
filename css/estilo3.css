@@ -19,6 +19,7 @@ teste
 li{
     width: 50%;
     list-style: none;
+}
 
 .nav{
     display: inline block;
@@ -34,3 +35,9 @@ ul{
 .carandiru{
     background: purple;
 }
+
+.cuidado{
+    background-color: pink;
+}
+
+
